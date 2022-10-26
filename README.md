@@ -31,8 +31,8 @@ Step5:
 
 ## Program
 ```python
-#DEVELOPED BY : SaileshKumar and team
-#REG NO. : 22003843
+#DEVELOPED BY : Aadithyan R
+#REG NO. : 22000618
 
 from robomaster import robot
 import time
